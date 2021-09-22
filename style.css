@@ -1,0 +1,22 @@
+/* Write your CSS Here. */
+#answer_input{
+    width: auto;
+    margin: auto;
+     border: lightseagreen;
+     /* display: flex; */
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+#submit_button{
+    width: auto;
+    margin: auto;
+    border: lightseagreen;
+    /* display: flex; */
+    align-items: center;
+    flex-direction: column;
+}
+body{
+    background-color: rgb(177, 223, 238);
+}
