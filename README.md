@@ -1,4 +1,4 @@
-# Kenzie Academy JavaScript Assignment
+quiz game
 
 Complete your work inside of `code.js`
 
